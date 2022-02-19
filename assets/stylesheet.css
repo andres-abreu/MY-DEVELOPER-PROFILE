@@ -1,0 +1,17 @@
+.logo {
+    background: url("andresabreu_dev-profile-pics_affinity./_\ Andres_\ Abreu-BRAND-LOGO-no-shadow-on-name.\ copy.png");
+    padding: 0px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+  }
+
+body {
+    background-image: url("andresabreu_dev-profile-pics_affinity./andresabreu_dev-profile~4.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: ;
+    font-family: 'Courier New', Courier, monospace;
+
+}
