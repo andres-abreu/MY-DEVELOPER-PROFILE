@@ -7,32 +7,41 @@
     background-repeat: no-repeat;
   }
 
+  nav {
+      position: fixed;
+      top: 0;
+      right: 0;
+  }
+
   ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-      background-color: transparent;
-      
-  }
-
-  li {
-      display: inline;
-      float: right;
-
-  }
-
-  li a {
-      display: block;
-      color: black;
-      padding: 14px 16px;
-      text-decoration: none;
-
-  }
-
-  li a:hover {
-      background-color: lightgray;
-  }
+    list-style-type: none;
+    margin: 100px;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    }
+    
+    li {
+    display: inline;
+    float: right;
+    
+    }
+    
+    li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 555;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+    li a:hover {
+    background-color: lightgray; 
+    border-radius: 20px;
+    }
 
 body {
     background-image: url("andresabreu_dev-profile-pics_affinity./andresabreu_dev-profile~4.png");
