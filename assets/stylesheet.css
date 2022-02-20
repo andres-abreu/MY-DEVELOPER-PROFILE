@@ -26,7 +26,7 @@ nav {
 
 ul {
     list-style-type: none;
-    margin: 100px;
+    margin: 50px;
     padding: 0;
     overflow: hidden;
     background-color: transparent;
@@ -43,7 +43,7 @@ li a {
     padding: 10px 55px;
     text-decoration: none;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
     
@@ -52,15 +52,6 @@ li a:hover {
     border-radius: 60px;
 }
 
-.menu-itmes {
-    width: 50px;
-    height: 50px;
-    background-color: transparent;
-    border-radius: 30px;
-    border-style: outset;
-    text-align: center;
-    font-size: small;
-}
 
 input[type=text], select, textarea {
     width: 100%; 
@@ -78,7 +69,7 @@ input[type=text], select, textarea {
     background-color: transparent;
     color: black;
     padding: 12px 20px;
-    border: 2px solid lightgrey;
+    border: 3px solid lightgrey;
     border-radius: 20px;
     cursor: pointer;
   }
@@ -95,7 +86,7 @@ input[type=text], select, textarea {
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: none;
 }
 
 
@@ -106,5 +97,6 @@ footer {
     padding-left: 425px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 10px;
+    font-weight: none;
     color: black;
 }
