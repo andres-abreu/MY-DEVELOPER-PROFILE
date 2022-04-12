@@ -6,3 +6,5 @@ This profile illustrates an aesthetically-simple-responsive GUI using html/css, 
 ## QUICK-VIDEO-DEMO
 https://user-images.githubusercontent.com/94572199/162838654-47a45a50-baad-441b-a6fc-cb8e87477659.mov
 
+## LINKS
+https://andres-abreu.github.io/MY-DEVELOPER-PROFILE/
